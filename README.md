@@ -1,2 +1,0 @@
-# programmingassignmentnaidu
-Programming Assignment Naidu
